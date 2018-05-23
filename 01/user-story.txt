@@ -1,0 +1,45 @@
+1. saya sebagai dosen menginginkan aplikasi untuk menghasilkan
+   daftar nilai mahasiswa
+    nama mata kuliah: xxxxxx
+    kelas: xxxxxx
+    jurusan: xxxxxx
+
+    Mahasiswa         Nilai
+    NIM     Nama      Nilai Tugas Nilai UTS Nilai UAS Nilai Huruf      
+    xxx     xxxxx     x           x         x         y 
+    xxx     xxxxx     x           x         x         y
+
+==================================================================
+1. saya sebagai dosen bisa memilih kelas dan matakuliah yang
+   akan diinput nilainya
+
+   estimasi: 1 minggu
+   prioritas: high
+
+   test: kelas tidak boleh kosong, matakuliah tidak boleh kosong
+         kelas yang dipilih harus kelas yang sudah ada datanya
+         matakuliah yang dipilih harus matakuliah yang sudah ada datanya
+         jika selesai dipilih kelas dan matakuliah, keluarkan hasilnya
+         berupa data mahasiswa (nim, nama)
+
+2. saya sebagai dosen bisa menginput komponen nilai (tugas, uts, uas)
+   secara mandiri
+
+   estimasi: 1 minggu
+   prioritas: high
+   test: nilai >= 0 and <= 100
+         nilai boleh kosong
+
+3. saya sebagai dosen bisa menampilkan report tanpa harus menunggu
+   input data nilai
+
+   estimasi: 1 minggu
+   prioritas: high
+   test: keluar output berupa daftar nilai sesuai dengan pilihan
+         matakuliah, kelas dan input nilai
+
+4. saya sebagai dosen bisa menentukan range nilai huruf
+   estimasi: 1 minggu
+   prioritas: medium
+   test: nilai huruf yang dihasilkan sesuai dengan input range nilai
+         huruf

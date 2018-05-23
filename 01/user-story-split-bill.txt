@@ -1,0 +1,7 @@
+aplikasi untuk split bill
+  1. bagi rata (sebanyak jumlah orang)
+  2. by percentage
+  3. apakah bill termasuk pajak atau belum
+===============================================
+aplikasi simulasi cicilan berjangka output yang diinginkan berapa
+pembayaran perbulan
