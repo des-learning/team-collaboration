@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\Rekening\Rekening\bin\Debug\Rekening.dll
+C:\Users\Home\source\repos\Rekening\Rekening\bin\Debug\Rekening.pdb
+C:\Users\Home\source\repos\Rekening\Rekening\obj\Debug\Rekening.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Rekening\Rekening\obj\Debug\Rekening.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Rekening\Rekening\obj\Debug\Rekening.dll
+C:\Users\Home\source\repos\Rekening\Rekening\obj\Debug\Rekening.pdb

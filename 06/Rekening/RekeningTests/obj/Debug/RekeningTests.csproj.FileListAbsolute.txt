@@ -1,0 +1,16 @@
+C:\Users\Home\source\repos\Rekening\RekeningTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Home\source\repos\Rekening\RekeningTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Home\source\repos\Rekening\RekeningTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Home\source\repos\Rekening\RekeningTests\bin\Debug\RekeningTests.dll
+C:\Users\Home\source\repos\Rekening\RekeningTests\bin\Debug\RekeningTests.pdb
+C:\Users\Home\source\repos\Rekening\RekeningTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Home\source\repos\Rekening\RekeningTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Home\source\repos\Rekening\RekeningTests\bin\Debug\Rekening.dll
+C:\Users\Home\source\repos\Rekening\RekeningTests\bin\Debug\Rekening.pdb
+C:\Users\Home\source\repos\Rekening\RekeningTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Home\source\repos\Rekening\RekeningTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Home\source\repos\Rekening\RekeningTests\obj\Debug\RekeningTests.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Rekening\RekeningTests\obj\Debug\RekeningTests.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Rekening\RekeningTests\obj\Debug\RekeningTests.csproj.CopyComplete
+C:\Users\Home\source\repos\Rekening\RekeningTests\obj\Debug\RekeningTests.dll
+C:\Users\Home\source\repos\Rekening\RekeningTests\obj\Debug\RekeningTests.pdb
