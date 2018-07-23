@@ -1,0 +1,41 @@
+saya sebagai user menginginkan aplikasi untuk menginput reminder mengenai tugas-tugas
+yang akan saya selesaikan.
+
+INPUT: tugas-tugas:
+          deskripsi tugas
+          waktu mulai
+          tenggat waktu
+          status pekerjaan (not started, on progress, done)
+          reminder kapan (1 hari sebelum mulai, 1 hari sebelum tenggat (kalau belum selesai))
+          
+PROSES: setiap periode (setiap 1 jam) ambil seluruh tugas yang status == not started
+        apakah memenuhi kriteria reminder (1 hari sebelum mulai), kirimkan reminder
+        setiap periode (setiap 1 jam) ambil seluruh tugas yang status == on progress
+        apakah memenuhi kriteria reminder (1 hari sebelum tenggat waktu), kirimkan reminder
+
+OUTPUT: reminder melalui email
+          deskripsi tugas
+          status pekerjaan
+          waktu mulai
+          tenggat waktu
+
+use case lain:
+  bisa edit, bisa hapus tugas, update status tugas
+===========================================================================================
+1. saya sebagai user bisa menambahkan tugas baru
+   test: a. user dapat menginput deskripsi tugas, waktu mulai, tenggat waktu dan reminder
+         b. apabila waktu mulai setelah tenggat waktu, pesan waktu salah
+
+2. saya sebagai user bisa mengubah/edit tugas yang sudah diinput
+2.1 saya sebagai user bisa mengubah waktu mulai/tenggat waktu tugas
+    test: a. apabila waktu mulai setelah tenggat waktu, pesan waktu salah
+2.2 saya sebagai user bisa mengubah status pekerjaan
+    test: a. user dapat memilih apakah status pekerjaan not started/on progess/done
+
+3. saya sebagai user bisa menampilkan daftar tugas yang belum dikerjakan, sedang dikerjakan, sudah selesai
+
+4. saya sebagai user bisa menerima reminder mengenai tugas yang belum dikerjakan/sedang dikerjakan
+4.1 saya sebagai user bisa menerima reminder dalam bentuk email
+4.2 saya sebagai user bisa menerima reminder dalam bentuk alarm
+
+5. saya sebagai user bisa menghapus tugas yang sudah diinput
