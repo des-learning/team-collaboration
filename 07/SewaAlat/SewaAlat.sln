@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SewaAlat", "SewaAlat\SewaAlat.csproj", "{ABF1ACB8-E643-42DE-8D63-FEB076FC5CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SewaAlatTests", "SewaAlatTests\SewaAlatTests.csproj", "{9952245B-6D36-4A5C-B415-6F695A5DFBAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF1ACB8-E643-42DE-8D63-FEB076FC5CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF1ACB8-E643-42DE-8D63-FEB076FC5CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF1ACB8-E643-42DE-8D63-FEB076FC5CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF1ACB8-E643-42DE-8D63-FEB076FC5CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9952245B-6D36-4A5C-B415-6F695A5DFBAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9952245B-6D36-4A5C-B415-6F695A5DFBAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9952245B-6D36-4A5C-B415-6F695A5DFBAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9952245B-6D36-4A5C-B415-6F695A5DFBAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3CF7298-898A-4FE1-998B-B8ADFFFA656A}
+	EndGlobalSection
+EndGlobal

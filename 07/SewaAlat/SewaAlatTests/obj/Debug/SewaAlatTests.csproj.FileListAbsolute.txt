@@ -1,0 +1,16 @@
+C:\Users\david\source\repos\SewaAlat\SewaAlatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\david\source\repos\SewaAlat\SewaAlatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\david\source\repos\SewaAlat\SewaAlatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\david\source\repos\SewaAlat\SewaAlatTests\bin\Debug\SewaAlatTests.dll
+C:\Users\david\source\repos\SewaAlat\SewaAlatTests\bin\Debug\SewaAlatTests.pdb
+C:\Users\david\source\repos\SewaAlat\SewaAlatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\david\source\repos\SewaAlat\SewaAlatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\david\source\repos\SewaAlat\SewaAlatTests\bin\Debug\SewaAlat.dll
+C:\Users\david\source\repos\SewaAlat\SewaAlatTests\bin\Debug\SewaAlat.pdb
+C:\Users\david\source\repos\SewaAlat\SewaAlatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\david\source\repos\SewaAlat\SewaAlatTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\david\source\repos\SewaAlat\SewaAlatTests\obj\Debug\SewaAlatTests.csprojAssemblyReference.cache
+C:\Users\david\source\repos\SewaAlat\SewaAlatTests\obj\Debug\SewaAlatTests.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\SewaAlat\SewaAlatTests\obj\Debug\SewaAlatTests.csproj.CopyComplete
+C:\Users\david\source\repos\SewaAlat\SewaAlatTests\obj\Debug\SewaAlatTests.dll
+C:\Users\david\source\repos\SewaAlat\SewaAlatTests\obj\Debug\SewaAlatTests.pdb

@@ -1,0 +1,49 @@
+Aplikasi untuk menghitung biaya belanja.
+
+1. User dapat memasukkan daftar harga barang (dalam bentuk list)
+   Contoh input daftar harga barang:
+    Nama    Harga
+    Buku    8_000
+    Pena   15_000
+    Pensil 12_000
+   Tips: Bisa menggunakan List of Object (List<HargaBarang>)
+
+   Harga tidak boleh minus (tapi boleh 0)
+
+2. User dapat memasukkan tarif pajak
+   Tarif pajak dimasukkan dalam hitungan persen (mis. 10% diinput menjadi 10).
+   Konversikan 10 menjadi persen (0.1)
+
+   Pajak tidak boleh minus (tapi boleh 0)
+
+3. User dapat menghitung total belanja sesuai dengan daftar barang belanjaan.
+   Contoh daftar barang belanjaan:
+   Qty Nama Barang
+   2   Buku        = 16_000
+   3   Pena        = 15_000
+   4   Pensil      = 12_000
+
+   Total belanja adalah Qty * Harga satuan barang (sesuai dengan daftar harga)
+   ditotalkan dan tambahkan dengan tarif pajak.
+
+   Qty tidak boleh <= 0 (harus positif)
+
+Apabila ada daftar barang belanjaan yang tidak terdaftar pada daftar harga barang
+tampilkan error.
+
+Contoh:
+  Daftar Harga
+    Buku    8_000
+    Pena   15_000
+    Pensil 12_000
+  Pajak 10%
+
+  Daftar Belanja
+  2 Buku    = 16_000
+  3 Pena    = 15_000
+  4 Pensil  = 12_000
+             ========
+              43_000
+  pajak (10%)  4_300
+             ========
+Total         47_300

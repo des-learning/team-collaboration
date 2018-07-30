@@ -1,0 +1,28 @@
+Aplikasi menghitung biaya penyewaan alat.
+
+User dapat menghitung biaya penyewaan alat dengan
+menginput masa sewa (dalam satuan jam, dan boleh berkoma,
+mis. 1.5 jam)
+
+Ketentuan perhitungan biaya penyewaan alat:
+1. Biaya sewa dihitung perjam dengan harga variatif:
+	* masa sewa <= 8 jam, harga perjam 50.000
+	* masa sewa > 8 & <= 12, harga perjam 60.000
+	* masa sewa > 12 jam, harga perjam 75.000
+2. minimum masa sewa 4 jam (minimum charge)
+3. biaya sewa progresif sesuai dengan masa sewa
+   contoh
+   masa sewa 10 jam (8 jam tarif 50.000 + 2 jam tarif 60.000)
+		8 * 50.000
+		2 * 60.000
+		==========
+		?
+
+   masa sewa 17 jam (8 jam tarif 50.000 + 5 jam tarif 60.000
+			  + 4 jam tarif 75.000)
+		8 * 50.000
+		4 * 60.000
+		5 * 75.000
+		==========
+		?
+		

@@ -1,0 +1,6 @@
+C:\Users\david\source\repos\SewaAlat\SewaAlat\bin\Debug\SewaAlat.dll
+C:\Users\david\source\repos\SewaAlat\SewaAlat\bin\Debug\SewaAlat.pdb
+C:\Users\david\source\repos\SewaAlat\SewaAlat\obj\Debug\SewaAlat.csprojAssemblyReference.cache
+C:\Users\david\source\repos\SewaAlat\SewaAlat\obj\Debug\SewaAlat.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\SewaAlat\SewaAlat\obj\Debug\SewaAlat.dll
+C:\Users\david\source\repos\SewaAlat\SewaAlat\obj\Debug\SewaAlat.pdb
